@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <!--<com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>-->
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WorldWarX 2.0"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#00F" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1). The objective of the game is to destroy as many enemy space crafts as possible." />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2). To play the game , click on Play Game option in the Main menu." />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3). To move the player simply drag the battleship using your finger around the screen area." />
+	<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+	    android:orientation="horizontal">
+
+    <QuickContactBadge
+        android:id="@+id/quickContactBadge3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/droid" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The player&apos;s battleship(on the left)" />
+
+	</LinearLayout>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4). The player&apos;s battleship is constantly shooting but direction can be changed by clicking on the direction symbols on the edge of the screen. eg to shoot bullets to the right press the symbol below," />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ScrollView>
+
+    <QuickContactBadge
+        android:id="@+id/quickContactBadge4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bright" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5). The game has two upgrades which are picked up by hitting the player&apos;s battleship to the upgrades.They include: " />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1). Force field" />
+	<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+	    android:orientation="horizontal">
+    <QuickContactBadge
+        android:id="@+id/quickContactBadge1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/forceblast" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="When picked up, the forcefield lasts for 15 seconds protecting you from external attacks. It&apos;s respresented by the image beside(on the left)." />
+
+    </LinearLayout >
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2). Explosive grenades" />
+	<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+	    android:orientation="horizontal">
+
+    <QuickContactBadge
+        android:id="@+id/quickContactBadge2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/solarflare" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="When picked up, the player taps anywhere on the screen and an explosion occurs at that point. It is represented by the image beside(on the left)." />
+	</LinearLayout>
+	<TextView
+		    android:id="@+id/textView14"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="HINT:  " />
+	<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+	    android:orientation="horizontal">
+	<QuickContactBadge
+	    android:id="@+id/quickContactBadge5"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:src="@drawable/bossbrain" />
+
+	<TextView
+	    android:id="@+id/textView13"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="Each time the enemy Boss ship(on the left) appears it gets harder to destroy." />
+	</LinearLayout>
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="#00F" />
+<!--Please send your feedbacks to http://www.postnnewsit.com/worldwarx.php-->
+</LinearLayout>
+</ScrollView>

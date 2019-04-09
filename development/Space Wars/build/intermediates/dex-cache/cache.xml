@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-maps-8.3.0_384a920b2d082288e2e9879b9423eaaa44c5d4ac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-games-8.3.0_7ff27cdd935093f94247a8dbcab03b389c36ba90\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-support-v4-22.2.0_3c0567d132dee5f4c8077630fceda726504d525f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4de29db7b6c494b71caca4b1b5a39f287c665917">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\2\google-play-services_5f124a6656725b56a4b29f890cb36f70f2a5f107\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-vision-8.3.0_e7e1ca33d8549f73f8dc99c18c79a78970d4881c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-analytics-8.3.0_caf00c331b8ecdb60b109b3b59f660458ffbac7f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-ads-8.3.0_4ac3fc6f23a5522ec050fa1a2dba313f59430b76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-appinvite-8.3.0_fe1b985119a2ce5a80ebb4f809c091c05646a984\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-appcompat-v7-22.2.0_5517808acbf609aba00acdd9056a1018d765f018\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\internal_impl-22.2.0_7544bce8e343caa50af190ba234aa6eec059458d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-auth-8.3.0_134cdde630dccca8dcaa307feafa8c8d53a42682\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-appindexing-8.3.0_90a3bbd5798e69a844b14cea119892449eaf12c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-measurement-8.3.0_9da3496fae74be6016fb6862022cd0082125db6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-gcm-8.3.0_ba1b1e578d62b05ef4e0c176d2228d0b50bd2186\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-base-8.3.0_73f8242173ed978ce465de3fed2e7d604aee58db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-wallet-8.3.0_2992e5a45b2a5b53d4f949ac09058a4eb88a58f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-drive-8.3.0_1c1cc96a07dc4ea81d120cc8f2d5b174ea33a325\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-cast-8.3.0_44801b9c202ac1e60605ce3eb52f83ef31fcf1bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-safetynet-8.3.0_46255ce0944d1e9aa49605cbc255cf3b8ed629f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-fitness-8.3.0_2d8171a2c664182d7bb3b9c869f606458a5405f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\internal_impl-22.2.0_54a47dd441ec41532b3f730813714978a7501e69\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-wearable-8.3.0_bb46b28e28f368c4f72186bcff12961722abbc8d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-nearby-8.3.0_46119a3c08a049d2a8e8f2c474af3a65abab15c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-plus-8.3.0_e34ae2ea32a217814af19aa86c738baacde3fa09\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-identity-8.3.0_223c79e6b53fe53d73d8e338b78f28595cab3c3e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-panorama-8.3.0_54d18a49c3d8c71df3bcc310184cf3cd08d3bd11\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\libs\mobilecore_V1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ad986e84a9dc592bd94d8780fa35f6d86db01225">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\2\mobilecore_V1.1_d1896222451c7b747926d38f0d9d3d8915e1b7e1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-basement-8.3.0_a6db148e9b375b51b99f830cabf44969ec8df411\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-mediarouter-v7-22.2.0_dd71ddf8b584d3af18027436507c51bb70ca712c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-location-8.3.0_0ca924b5bbfbc91a59e8c287825ad87ca6c6de0b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kgach\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\kgach\Documents\Android Studio Projects\WorldWar_X1\DroneSpace\app\build\intermediates\transforms\dex\release\folders\1000\10\support-annotations-22.2.0_7c3c609a31c67a1ea30c5adb8eaa47df4adf1ff2\classes.dex" />
+    </item>
+
+</items>
